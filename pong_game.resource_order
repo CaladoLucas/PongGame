@@ -1,0 +1,11 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spr_colisor","order":3,"path":"sprites/spr_colisor/spr_colisor.yy",},
+    {"name":"obj_paddle_2","order":3,"path":"objects/obj_paddle_2/obj_paddle_2.yy",},
+    {"name":"obj_ball","order":1,"path":"objects/obj_ball/obj_ball.yy",},
+    {"name":"obj_colisor","order":2,"path":"objects/obj_colisor/obj_colisor.yy",},
+    {"name":"spr_padle","order":2,"path":"sprites/spr_padle/spr_padle.yy",},
+    {"name":"spr_ball","order":1,"path":"sprites/spr_ball/spr_ball.yy",},
+  ],
+}
